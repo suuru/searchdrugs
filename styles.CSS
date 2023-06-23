@@ -9,7 +9,7 @@
     width: 100%;
     min-height: 100vh;
     padding: 5%;
-    background-image: linear-gradient(rgba(0, 32, 51, 0.9), rgba(0, 8, 51, 0.9)), url(Downloads/jiri-suchy-nvmVK78tE5I-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 32, 51, 0.9), rgba(0, 8, 51, 0.9)), url(jiri-suchy-nvmVK78tE5I-unsplash.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
